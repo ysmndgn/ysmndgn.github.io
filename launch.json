@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Semiha Tanir</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+       #welcome{
+		color: teal;
+	   }
+		</style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/avatar.png" alt="" /></a>
+					<h1><strong>Semiha Tanır</strong></h1> <p> Çizim ve Tasarım </p>  <br />
+					<h3>İletisim</h3>
+				
+					Telefon No: +90 531 306 5289<br />
+					Adres: Elazığ/Ataşehir <a href="#"></a></h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2 id="welcome">Sayfama Hoş Geldiniz.</h2>
+						<hr />
+						</header>
+						<p>Merhaba. Ben Semiha Tanır. Fırat Üniversitesi Görsel İletişim Bölümü 3.Sınıf öğrencisiyim. 
+						</p>
+						<h3> Çizimlerim için Kullandığım Programlar:</h3>
+							<ul>
+								<li>Adobe Photoshop</li>
+								<li>Clip Studio</li>
+								<li>Ilistrator</li>
+								
+							</ul>
+						
+						<ul class="actions">
+							<li><a href="hakkimda.html" class="button">Daha Fazlası İçin</a></li>
+							
+						</ul>
+					</section>
+
+				
+				
+
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.instagram.com/yasemindggan_/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
